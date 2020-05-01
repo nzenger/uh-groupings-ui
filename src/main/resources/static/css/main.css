@@ -609,3 +609,6 @@ form.seamless button {
     }
 }
 
+label input {
+    margin-left:10px;
+}
